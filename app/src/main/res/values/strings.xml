@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">My First Application</string>
+    <string name="splash_screen_title">My First App</string>
+    <string name="login_screen_title">Login Screen</string>
+    <string name="login_user_name_hint">UserName</string>
+    <string name="password_hint">password</string>
+    <string name="login_lable">Login</string>
+    <string name="cencel_lable">cencel</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="splash_screen_title">التطبيق الاول</string>
+    <string name="login_screen_title">صفحة الدخول</string>
+    <string name="login_user_name_hint">اسم المستخدم</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="login_lable">دخول</string>
+    <string name="cencel_lable">حذف</string>
+</resources>
